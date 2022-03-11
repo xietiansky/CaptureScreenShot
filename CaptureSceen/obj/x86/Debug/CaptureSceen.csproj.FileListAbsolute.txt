@@ -1,0 +1,5 @@
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\bin\Debug\CaptureSceenShot.exe
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\bin\Debug\CaptureSceenShot.pdb
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x86\Debug\CaptureSceenShot.exe
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x86\Debug\CaptureSceenShot.pdb

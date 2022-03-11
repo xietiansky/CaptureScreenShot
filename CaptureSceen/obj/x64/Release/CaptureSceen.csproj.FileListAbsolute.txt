@@ -1,0 +1,9 @@
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\bin\x64\Release\CaptureSceenShot.exe
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\bin\x64\Release\CaptureSceenShot.pdb
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x64\Release\ResolveAssemblyReference.cache
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x64\Release\CaptureSceenShot.exe
+D:\AutoTest\MAIN\HSW-AT\XuanYuan\SmokeAutomation\auto_smoke_wiser\Tools\SimilarPicsCompare\CaptureSceen\CaptureSceen\obj\x64\Release\CaptureSceenShot.pdb
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\bin\x64\Release\CaptureSceenShot.exe
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\bin\x64\Release\CaptureSceenShot.pdb
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\obj\x64\Release\CaptureSceenShot.exe
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\obj\x64\Release\CaptureSceenShot.pdb

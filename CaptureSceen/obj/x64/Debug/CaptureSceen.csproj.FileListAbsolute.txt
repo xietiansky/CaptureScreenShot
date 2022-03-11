@@ -1,0 +1,4 @@
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\bin\x64\Debug\CaptureSceenShot.exe
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\bin\x64\Debug\CaptureSceenShot.pdb
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\obj\x64\Debug\CaptureSceenShot.exe
+D:\MCSF\MAIN\Test\Tools\CaptureSceen\CaptureSceen\obj\x64\Debug\CaptureSceenShot.pdb
